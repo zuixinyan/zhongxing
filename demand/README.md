@@ -11,7 +11,7 @@
 
 
 每个文件夹下：
-均需要有三个子文件夹 code data image ,report（这三个目录必须存在）
+均需要有三个子文件夹 code data image ,report（这四个目录必须存在，如果客户有特殊要求除外，但是必须在README.md上进行说明）
 
 
 所有的代码必须放在code目录下。
